@@ -1,4 +1,4 @@
-### Hi there, I am Yohanis 👋
+### Hi there, I am Yohannis 👋
 
 <hr>
 
