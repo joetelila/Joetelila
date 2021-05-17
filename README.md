@@ -1,5 +1,4 @@
-### Hi there, I am Yohannis 👋
-
+### Hi there 👋 , I am Yohannis.
 <hr>
 
 <a href="https://twitter.com/joekifle">
