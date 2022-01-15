@@ -9,6 +9,7 @@
 <details open style="
         padding-left: 111px;
       ">
+    <summary>GitHub stats</summary>
   <div>
     <a href="https://github.com/anuraghazra/github-readme-stats">
       <img align="center" height=160 src="https://github-readme-stats.vercel.app/api?username=joetelila&count_private=false&show_icons=true&theme=tokyonight">
