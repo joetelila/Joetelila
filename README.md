@@ -1,7 +1,11 @@
-### Hi there 👋 , I am Yohannis.
-<hr>
-https://joetelila.com/
-<hr>
+<h1 align="center"><img src="https://raw.githubusercontent.com/sidbelbase/sidbelbase/master/wave.gif" width="30px"><strong> Hello There, I'm <a href="https://joetelila.com">Yohannis K Telila</a></strong>
+</h1>
+<p align="center">
+  <a href="https://joetelila.com">Website</a> •
+  <a href="https://twitter.com/joetelila">Twitter</a> •
+  <a href="https://www.linkedin.com/in/joetelila/">Linkedin</a>
+</p>
+
 <!-- GitHub stats -->
 <details open>
   <summary>GitHub stats</summary>
@@ -14,18 +18,3 @@ https://joetelila.com/
     </a>
   </div>
 </details>
-Social Links
-<br>
-<br>
-<a href="https://twitter.com/joekifle">
-  <img align="left" alt="Yohannis Kifle | Twitter" src="https://img.icons8.com/fluent/30/000000/twitter.png"/>
-</a>
-<a href="https://www.linkedin.com/in/joetelila/">
-  <img align="left" alt="Yohannis Kifle | LinkedIn" src="https://img.icons8.com/color/30/000000/linkedin.png"/>
-</a>
-<a href="mailto:joey.kifle@gmail.com">
-  <img align="left" alt="Yohannis Kifle | Email" src="https://img.icons8.com/color/30/000000/gmail--v2.png"/>
-</a>
-<a href="https://t.me/joekifle">
-  <img align="left" alt="Yohannis Kifle | Telegram" src="https://img.icons8.com/color/30/000000/telegram-app--v5.png"/>
-</a>
