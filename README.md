@@ -6,9 +6,9 @@
   <a href="https://www.linkedin.com/in/joetelila/">Linkedin</a>
 </p>
 
-<!-- GitHub stats -->
-<details open>
-  <summary>GitHub stats</summary>
+<details open style="
+        padding-left: 111px;
+      ">
   <div>
     <a href="https://github.com/anuraghazra/github-readme-stats">
       <img align="center" height=160 src="https://github-readme-stats.vercel.app/api?username=joetelila&count_private=false&show_icons=true&theme=tokyonight">
