@@ -1,4 +1,9 @@
-<h1 align="center"><img src="https://raw.githubusercontent.com/sidbelbase/sidbelbase/master/wave.gif" width="30px"><strong> Hello There, I'm <a href="https://joetelila.com">Yohannis K Telila</a></strong>
+![](https://komarev.com/ghpvc/?username=joekifle&style=flat&label=Profile+Views)
+  
+<h1 align="center"><img src="https://raw.githubusercontent.com/sidbelbase/sidbelbase/master/wave.gif" width="30px"><strong> Hello There, 
+ I'm <a href="https://joetelila.com">Yohannis K Telila</a> </strong>
+  
+  
 </h1>
 <p align="center">
   <a href="https://joetelila.com">Website</a> •
