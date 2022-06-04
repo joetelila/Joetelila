@@ -1,6 +1,6 @@
 ![](https://komarev.com/ghpvc/?username=joekifle&style=flat&label=Profile+Views)
   
-<h1 align="center"><img src="https://raw.githubusercontent.com/sidbelbase/sidbelbase/master/wave.gif" width="30px"><strong> Hello There, 
+<h1 align="center"><img src="https://raw.githubusercontent.com/sidbelbase/sidbelbase/master/wave.gif" width="30px" height="30px><strong>  Hello There, 
  I'm <a href="https://joetelila.com">Yohannis K Telila</a> </strong>
   
   
