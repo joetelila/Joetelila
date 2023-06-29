@@ -10,7 +10,7 @@
   <a href="https://twitter.com/joetelila">Twitter</a> •
   <a href="https://www.linkedin.com/in/joetelila/">Linkedin</a>
 </p>
-
+<!--
 <details open style="
         padding-left: 111px;
       ">
@@ -24,3 +24,4 @@
     </a>
   </div>
 </details>
+-->
