@@ -6,7 +6,7 @@
   
 </h1>
 <p align="center">
-  <a href="https://joetelila.com">Website</a> •
+  <a href="https://joetelila.netlify.com">Website</a> •
   <a href="https://twitter.com/joetelila">Twitter</a> •
   <a href="https://www.linkedin.com/in/joetelila/">Linkedin</a>
 </p>
