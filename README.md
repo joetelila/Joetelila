@@ -2,7 +2,7 @@
 
 <h1 align="center">
   <img src="https://raw.githubusercontent.com/sidbelbase/sidbelbase/master/wave.gif" width="30px" height="30px">
-  <strong>Hello There, I'm <a href="https://joetelila.com">Yohannis Telila</a></strong>
+  <strong>Hello There, I'm <a href="https://joetelila.com">Yohannis Telila.</a></strong>
 </h1>
 
 <p align="center">PhD student at Western University.</p>
