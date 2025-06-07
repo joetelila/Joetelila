@@ -5,7 +5,7 @@
   <strong>Hello There, I'm <a href="https://joetelila.com">Yohannis Telila.</a></strong>
 </h1>
 
-<p align="center">PhD candidate at Western University.</p>
+<p align="center">PhD candidate at Western University</p>
 
 <p align="center">
   <a href="https://joetelila.netlify.com">Website</a> •
